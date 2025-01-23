@@ -1,16 +1,16 @@
-# dti_sau_project
+#Flutter Project: dti_sau_project
 
-A new Flutter project.
+### UI PJ Window of Welcome,Login And SignUp (It only Screen)
 
-## Getting Started
+<img src"https://github.com/6652410018GittiWilawan/dti_sau_project/blob/main/lib/views/login_ui.dart" width = 150>
 
-This project is a starting point for a Flutter application.
+<img src"https://github.com/6652410018GittiWilawan/dti_sau_project/blob/main/lib/views/signup_ui.dart" width = 150>
 
-A few resources to get you started if this is your first Flutter project:
+<img src"https://github.com/6652410018GittiWilawan/dti_sau_project/blob/main/lib/views/welcome_ui.dart" width = 150>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/c302ef2d-4d1f-4234-8caf-f6e8bf495f99)
+
+![image](https://github.com/user-attachments/assets/7f34d26e-7b20-4400-9c85-b9cdcd4f2614)
+
+![image](https://github.com/user-attachments/assets/de5fb666-95ea-485a-8a2a-5fe8759f3cb5)
